@@ -1,0 +1,12 @@
+//Para usar sass hay que instalar node-sasa , seria como TS , compila el codigo sass y lo pasa a css para que el navegador lo entienda
+
+//Importamos partial
+@import "./base/settings";
+@import "./base/base";
+//Components
+@import "./components/auth";
+@import "./components/buttons";
+@import "./components/links";
+@import "./components/journal";
+@import "./components/nothing";
+@import "./components/notes"
